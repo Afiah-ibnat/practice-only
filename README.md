@@ -1,6 +1,5 @@
 # i am creating this repo for learning branching
-# I have switched to branch1
-# thats nice!!
+# I am now on branch2
+# git checkout -b branch2
 # this is the main branch
 # -----git checkout main-----
-
